@@ -1,0 +1,11 @@
+# Arquivos compilados e de build
+/bin/
+*.exe
+*.o
+*.out
+
+# Arquivos de editores e IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
