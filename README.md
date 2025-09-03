@@ -50,7 +50,7 @@ Para compilar e executar este projeto, você precisará de um compilador C, como
 2.  **Compile o programa:**
     O comando a seguir compilará o código-fonte da pasta `src` e criará um executável chamado `batalha_naval` dentro da pasta `bin`.
     ```sh
-    gcc src/batalha_naval.c -o bin/batalha_naval -lm
+    gcc src/batalha-naval.c -o bin/batalha-naval -lm
     ```
     *(A flag `-lm` é incluída para linkar a biblioteca matemática, necessária para funções como `abs()`)*
 
